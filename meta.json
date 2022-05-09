@@ -7,7 +7,7 @@
   "license": "CC0",
   "web": "https://bitbucket.org/fowlmouth/entoody",
   "refs": [
-    "fatal: unable to access 'https://bitbucket.org/fowlmouth/entoody/': Could not resolve host: bitbucket.org",
+    "fatal: unable to access 'https://bitbucket.org/fowlmouth/entoody/': SSL connection timeout",
     ""
   ],
   "heads": []
